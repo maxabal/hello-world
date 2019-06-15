@@ -1,2 +1,3 @@
 # hello-world
-getting started
+
+Exploring my path in this circle of life
